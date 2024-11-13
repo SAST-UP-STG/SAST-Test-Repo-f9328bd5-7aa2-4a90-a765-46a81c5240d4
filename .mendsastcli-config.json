@@ -1,6 +1,8 @@
 {
   "scans": {
-    "engines": [],
+    "engines": [
+      "4"
+    ],
     "template": "",
     "exclusions": [],
     "timeouts": {
